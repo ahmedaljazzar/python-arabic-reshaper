@@ -37,7 +37,7 @@ helps with the reshaping so we can get the proper result like this:
 
 ## Installaion
 
-    pip install git+https://github.com/mpcabd/python-arabic-reshaper
+    pip install git+https://github.com/ahmedaljazzar/python-arabic-reshaper
 
 ## Usage
 
@@ -171,7 +171,7 @@ Online Arabic Reshaper: http://pydj.mpczbd.xyz/arabic-reshaper/
 
 ## Download
 
-https://github.com/mpcabd/python-arabic-reshaper/tarball/master
+https://github.com/ahmedaljazzar/python-arabic-reshaper/tarball/master
 
 ## Version History
 
@@ -191,12 +191,3 @@ https://github.com/mpcabd/python-arabic-reshaper/tarball/master
 
 * Ported [Better Arabic Reshaper](https://github.com/agawish/Better-Arabic-Reshaper/)
 to Python.
-
-## Contact
-
-Abdullah Diab (mpcabd)
-Email: 	mpcabd@gmail.com
-Blog:	http://mpcabd.xyz
-
-For more info visit my blog
-[post here](http://mpcabd.xyz/python-arabic-text-reshaper/)
